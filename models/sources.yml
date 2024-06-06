@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+
+  - name: uwinnipeg
+    description: 'Class test date'
+    database: AHMED_ANJUM_DIT_45604_AIW01
+    schema: CLASS_TEST
+    tables:
+      - name: CUSTOMERS
+        description: 'This is a Customer table info'
+      - name: ORDERS
+        description: 'This is a Orders table info'
+      - name: PRODUCT
+        description: 'This is a Product table info'
